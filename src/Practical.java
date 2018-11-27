@@ -16,5 +16,6 @@ public class Practical {
         System.out.println("Bye");
         System.out.println("No");
         //abc
+        //def
     }
 }
