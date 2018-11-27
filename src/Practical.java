@@ -14,5 +14,6 @@ public class Practical {
         System.out.println("Hello");
         System.out.print("Hello");
         System.out.println("Bye");
+        System.out.println("No");
     }
 }
