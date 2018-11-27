@@ -17,5 +17,6 @@ public class Practical {
         System.out.println("No");
         //abc
         //def
+        //ghi
     }
 }
