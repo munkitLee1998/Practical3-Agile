@@ -13,5 +13,6 @@ public class Practical {
         System.out.println("Travis");
         System.out.println("Hello");
         System.out.print("Hello");
+        
     }
 }
